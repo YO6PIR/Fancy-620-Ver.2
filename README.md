@@ -1,4 +1,4 @@
-# Fancy-620-Ver.2
+# Fancy620 Ver.2
 
 <p align="center">
   <img width="800" alt="Fancy-620-Ver.2" src="https://github.com/user-attachments/assets/1f68c2be-1070-45a7-9eaf-f0f71355ca51" />
