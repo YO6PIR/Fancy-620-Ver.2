@@ -200,7 +200,7 @@ Fancy-620-Ver.2/
 ## Hardware Schematic
 
 <p align="center">
-  <img width="800" alt="[PLACEHOLDER: Fancy-620-Ver.2 electronic schematic showing the STM32F103 microcontroller, Si5351 synthesizer, ILI9341 display connections, and RF front-end circuit. Include all signal paths, power distribution, and major component pinouts.]" src="PLACEHOLDER_SCHEMATIC" />
+  <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/a224aa0c-368e-41a0-9ce6-b116c7629af8" />
 </p>
 
 *Replace `PLACEHOLDER_SCHEMATIC` with the actual URL of the circuit diagram from the project documentation.*
